@@ -107,8 +107,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
-Developed by : S Kantha Sishanth
-Register No. : 212222100020
+Developed by : Keerthi Vasan A
+Register No. : 212222240048
 ```
 ```C
 #include "main.h"
